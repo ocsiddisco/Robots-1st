@@ -1,9 +1,5 @@
 # Robots 1st
-Tutorial for React
-To run the project:
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+This project is part of the course "The Complete Web Developer in 2023: Zero to Mastery".
+First project build with React using Robo hash API to generate an unique image for each robot. 
 
-*visist https://zerotomastery.io/ for more*
